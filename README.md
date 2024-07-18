@@ -3,7 +3,9 @@
 
 
 
-Python Expression Evaluator
+PYTHON EXPRESSION EVALUATOR
+
+
 The Python Expression Evaluator is a Python-based program that can execute simple arithmetic expressions and variable assignments.
 
 To run the Expression Evaluator, you'll need to have Python 3.x installed on your system. You can download the latest version of Python from the official website: https://www.python.org/downloads/
